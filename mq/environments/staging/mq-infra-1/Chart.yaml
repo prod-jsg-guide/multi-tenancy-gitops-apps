@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: mq-infra-1
+description: Chart to configure ArgoCD with the mq-infra-1 project and its applications
