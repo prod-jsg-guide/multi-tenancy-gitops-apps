@@ -12,7 +12,7 @@ spec:
     server: https://kubernetes.default.svc
   project: applications
   source:
-    path: mq/environments/staging/mq-infra
+    path: mq/environments/staging/mq-infra-1
     repoURL: https://github.com/prod-jsg-guide/multi-tenancy-gitops-apps
     targetRevision: master
     helm:
